@@ -1,0 +1,46 @@
+Program efficiency:-
+efficiency is all about time & space complexity
+
+DP(dynamic programing)
+
+In greedy approach whatever is the soln of the program given at the 1st go is fixed as final soln.
+Note: This is not the best approach for all sceniroes however it also works for some cases
+
+In DP, we will be finding out all possible solns for given problem out of which the best will be selected. 
+
+TIME AND SPACE COMPLEXITY:
+
+Asymptotic notaions
+1)Big Oh(0)
+2)theta
+3)omega
+
+
+for(i=0;i<n;i++)      ----n+1
+{
+statements;   -------n+1
+}
+
+f(n) = n+1 = O(n)
+
+
+for(i=0;i<n;i+2)   
+{
+statements;   
+}
+
+n/2
+f(n) = n/2
+Degree of polynomial is n
+so n/anything is n
+so here also 0(n)
+
+so irrespective of iteratn time gonna be same 0(n)
+
+
+sum of digits of given no using
+
+
+
+
+
